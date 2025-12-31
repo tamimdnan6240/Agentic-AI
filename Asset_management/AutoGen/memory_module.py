@@ -1,6 +1,6 @@
 # =========================
 # WRITE memory_module.py
-# =========================
+# ========================= 
 from pathlib import Path
 
 MEM_PY = r"""
